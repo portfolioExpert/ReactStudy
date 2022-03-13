@@ -2,7 +2,7 @@
 
 
 
-![스크린샷 2022-03-10 오후 9.40.40](/Users/mac/Desktop/스크린샷 2022-03-10 오후 9.40.40.png)
+<img width="500" alt="스크린샷 2022-03-10 오후 9 40 40" src="https://user-images.githubusercontent.com/52316270/158062776-4ddab510-3c54-451f-bb9a-5258bbff8e5d.png">
 
 
 
