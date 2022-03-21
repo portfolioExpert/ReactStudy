@@ -6,7 +6,8 @@
 
 ex)코드
 
-![스크린샷 2022-03-21 오후 9.43.14](/Users/mac/Desktop/스크린샷 2022-03-21 오후 9.43.14.png)
+<img width="239" alt="스크린샷 2022-03-21 오후 9 43 14" src="https://user-images.githubusercontent.com/52316270/159282474-bd2390b9-6dbe-43e1-92e4-83f3a3fa27dd.png">
+
 
 - 그림처럼 선언해주고 Greeting 에서 consumer를 해주면 위로 올라가서 provider를 찾아 그 값을 참조 provider를 찾지 못하면 초깃값을 참조한다.
 
@@ -14,7 +15,7 @@ ex)코드
 
   
 
-![스크린샷 2022-03-21 오후 9.50.11](/Users/mac/Library/Application Support/typora-user-images/스크린샷 2022-03-21 오후 9.50.11.png)
+<img width="222" alt="스크린샷 2022-03-21 오후 9 50 11" src="https://user-images.githubusercontent.com/52316270/159283910-a824ca9b-13d8-4a21-b0d3-ebd8f6f54da6.png">
 
 - Consumer 없이도 useContext 훅을 사용해 더 간편하게 사용할 수 있다.
 
