@@ -2,7 +2,7 @@
 
 ### ref 훅
 
-![스크린샷 2022-03-22 오후 11.07.00](/Users/mac/Desktop/스크린샷 2022-03-22 오후 11.07.00.png)
+<img width="290" alt="스크린샷 2022-03-22 오후 11 07 00" src="https://user-images.githubusercontent.com/52316270/159507716-1f41886e-7ccb-4081-97ab-8425988fe782.png">
 
 - ref훅을 이용해 돔 요소에 focus를 주도록했다.
 
